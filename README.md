@@ -10,7 +10,8 @@ The primary objective of this project is to craft an open-source website dedicat
 
 1. **Toggle Light and Dark Mode:** Empower users with the ability to seamlessly switch between light and dark modes, thereby elevating their browsing experience.
 
-2. **Sticky Navbar:** Create an adaptive and sticky navigation bar that seamlessly transforms to suit varying screen sizes, ensuring an uninterrupted and user-friendly experience, particularly on mobile devices.
+2. **Sticky Navbar:** Create an adaptive and sticky navigation bar that seamlessly transforms to suit varying screen sizes, ensuring an uninterrupted and user-friendly experience, particularly on mobile devices. 
+   <img alt="Static Badge" src="https://img.shields.io/badge/Issue%20%232-Fixed%20Sticky%20Navbar-prettier">
 
 3. **CSS Enhancements:** Elevate the aesthetic and user experience with features such as self-scrolling at defined intervals, seamless mouse, keypad, and touch-based scrollability, user-friendly artifact carousels, and an elegant, royal-themed preloader. Endeavor to imbue dynamism into static components wherever feasible.
 
