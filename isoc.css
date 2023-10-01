@@ -114,20 +114,21 @@ header nav label {
     display: none;
 }
 
-button {
+.nav_btn {
     border: none;
     background: #312940;
     padding: 10px 20px;
     border-radius: 30px;
     color: white;
     font-weight: bold;
+    font-family: 'Montserrat';
     font-size: .9rem;
     transition: .4s;
     margin-bottom: 1rem;
     margin-left: .7rem;
 }
 
-button:hover {
+.nav_btn:hover {
     transform: scale(1.1);
     cursor: pointer;
 }
@@ -410,11 +411,18 @@ p.oe-flex-item {
     padding: 8px;
     padding-left: 16px;
     padding-right: 16px;
-    font-size: 16px;
+    font-size: .9rem;
+    font-weight: bold;
+    font-family: 'Montserrat';
     border-radius: 8px;
     margin-bottom: 20px;
+    transition: .4s;
 }
 
+#explore-gallery:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
 
 /* artisan hub */
 .artisan-hub-info-grid {
@@ -568,14 +576,17 @@ p.oe-flex-item {
 .btn {
     background-color: #312940;
     border: 0;
-    border-radius: 50px;
+    border-radius: 30px;
     color: #fff;
-    font-size: 14px;
+    font-size: .8rem;
+    font-weight: bold;
+    font-family: 'Montserrat';
     height: 42px;
-    padding: 12px 25px;
+    padding: 15px 26px;
     position: absolute;
     top: 0;
     right: 0;
+    transition: .4s;
 }
 
 .input:focus,
@@ -583,26 +594,34 @@ p.oe-flex-item {
     outline: 0;
 }
 
+.btn:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
 .floating-btn {
-    border-radius: 26.5px;
+    border-radius: 30px;
     background-color: #001F61;
     border: 1px solid #001F61;
-    
     color: #fff;
     cursor: pointer;
-    font-size: 16px;
-    line-height: 20px;
-    padding: 12px 20px;
+    font-size: .9rem;
+    font-weight: bold;
+    font-family: 'Montserrat';
+    padding: 10px 20px;
     position: fixed;
     bottom: 20px;
     right: 20px;
-    z-index: 999;
+    z-index: 999; 
+    transition: .4s;
 }
-
-
 
 .floating-btn:focus {
     outline: none;
+}
+
+.floating-btn:hover {
+    transform: scale(1.1);
 }
 
 .floating-text {
