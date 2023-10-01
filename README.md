@@ -18,8 +18,6 @@ The primary objective of this project is to craft an open-source website dedicat
 4. **Button Functionality:** Imbue all provided buttons within the base project with full functionality, ensuring they perform their designated actions seamlessly. Participants are encouraged to introduce additional features that align with their creative vision.                                   
    <img alt="Static Badge" src="https://img.shields.io/badge/Issue%20%234%20-%20Fixed%20Button%20Functionality%20-%20prettier">
 
-
-
 5. **Multilingual Support:** Provide language change options for English, French, German, and Spanish as a minimum requirement, offering an inclusive and accessible user interface.
 
 6. **Exhibition Categorization:** Implement a robust filtration system for categorizing artifacts, allowing users to explore and discover artifacts based on type, chronology, rarity, and other pertinent criteria.
