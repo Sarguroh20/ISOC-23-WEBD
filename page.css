@@ -8,6 +8,15 @@
     --box-shadow: 0 0 10px rgba(0,0,0,0.5);
 }
 
+::-webkit-scrollbar{
+    width: 1.15rem;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #113f67;
+    border-radius: 100vw;
+    border: .1em solid #b6e1e0;
+}
 
 /* -----------------------------main sections--------------- */
 
