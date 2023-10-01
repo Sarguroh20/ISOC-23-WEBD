@@ -38,6 +38,9 @@ The primary objective of this project is to craft an open-source website dedicat
 
 14. **360-Degree Artifact Rotation:** Introduce a 360-degree artifact viewing capability to the Gallery (or a suitable page as per your site's layout), enabling users to comprehensively examine artifacts from every conceivable angle. 
 
+### Features
+   <img alt="Static Badge" src="https://img.shields.io/badge/Feature%20-%20Added%20Custom%20Scrollbars%20-%20prettier?labelColor=%23085f63&color=%23ff5959">   
+
 ### Additional Notes
 
 - Ensure that the website exhibits a responsive design, catering to users across various devices, including mobile, tablet, and laptop screens.
